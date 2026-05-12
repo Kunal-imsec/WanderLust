@@ -86,5 +86,5 @@ WanderLust/
 
 👤 Author
 
-Samrat Ujjwal
-GitHub: https://github.com/samratujjwal
+Kunal Agrawal
+GitHub: https://github.com/Kunal-imsec
